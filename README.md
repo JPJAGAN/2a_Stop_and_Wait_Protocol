@@ -1,4 +1,4 @@
-# 2a_Stop_and_Wait_Protocol
+![Screenshot 2025-04-19 131241](https://github.com/user-attachments/assets/5f3f08f4-b29d-4b8d-8e6d-0ddc37745b03)# 2a_Stop_and_Wait_Protocol
 ## AIM 
 To write a python program to perform stop and wait protocol
 ## ALGORITHM
@@ -9,6 +9,24 @@ To write a python program to perform stop and wait protocol
 5. If your frames reach the server it will send ACK signal to client
 6. Stop the Program
 ## PROGRAM
+
+## CLIENT:
+
+![Screenshot 2025-04-19 131000](https://github.com/user-attachments/assets/6fbc570b-207f-41ba-bc82-2952be3d0312)
+
+## SERVER:
+
+![Screenshot 2025-04-19 131044](https://github.com/user-attachments/assets/75d56c0d-7002-454e-b322-e12a2937db5f)
+
 ## OUTPUT
+
+## CLIENT:
+
+![Screenshot 2025-04-19 131241](https://github.com/user-attachments/assets/07188f92-485c-443a-b088-00a4fd68af77)
+
+## SERVER:
+
+![Screenshot 2025-04-19 131357](https://github.com/user-attachments/assets/f85a8b4f-3d1b-48d0-abcc-147ca68075c7)
+
 ## RESULT
 Thus, python program to perform stop and wait protocol was successfully executed.
